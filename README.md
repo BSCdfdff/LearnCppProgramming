@@ -1,4 +1,4 @@
 # C++ Programming
 
-![C++ Programming](./1200px-ISO_C++_Logo.svg.png)
+![C++ Programming](./500px-ISO_C++_Logo.svg.png)
 
